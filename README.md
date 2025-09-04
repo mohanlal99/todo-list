@@ -16,7 +16,7 @@ This app allows users to add, edit, and delete tasks, with **local storage integ
 
 ## 🛠️ Tech Stack  
 - **React.js** – For building interactive UI.  
-- **CSS / Tailwind (optional)** – For styling.  
+- **CSS / Tailwind ** – For styling.  
 - **Local Storage** – For saving tasks data.  
 
 ---
